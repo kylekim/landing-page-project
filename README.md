@@ -2,9 +2,9 @@
 
 Landing page project for "The Odin Project"
 
-Credit for photos:
-https://unsplash.com/@hugoagut
-https://unsplash.com/@s_tsuchiya
-https://unsplash.com/@phonghai649
-https://unsplash.com/@pramodtiwari
-https://unsplash.com/@francesco_ungaro
+Credit for photos: <br />
+https://unsplash.com/@hugoagut <br />
+https://unsplash.com/@s_tsuchiya <br />
+https://unsplash.com/@phonghai649 <br /> 
+https://unsplash.com/@pramodtiwari <br />
+https://unsplash.com/@francesco_ungaro <br />
